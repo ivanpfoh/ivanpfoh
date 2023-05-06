@@ -17,4 +17,4 @@
 
 Knowledge in construction.
 
-<img src="https://cdn-icons-png.flaticon.com/512/2827/2827348.png" width="10px" height="10px"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2827/2827348.png" width="40px" height="40px"/>
