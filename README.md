@@ -17,5 +17,5 @@
 
 Knowledge in construction.
 
-<img src="![construccion](https://user-images.githubusercontent.com/114116865/236598673-8299e770-6f66-4d1c-abfc-9e8a1dbd6d87.png)
+<img src="https://user-images.githubusercontent.com/114116865/236598673-8299e770-6f66-4d1c-abfc-9e8a1dbd6d87.png
 ">
