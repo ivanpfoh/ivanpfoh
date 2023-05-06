@@ -6,11 +6,11 @@
 
 ---
 <h3>About me</h3>
-- I am an enthusiast of both hardware and peripherals.
-- I have my channel where I upload videos of the peripherals that I am testing.
-- I am currently studying systems analysis.
-- I am a generally creative person who likes to be doing things.
-- My main objective is to contribute to technologies that can change the world forever and to see how far we can improve technology.
+- I am an enthusiast of both hardware and peripherals.<br>
+- I have my channel where I upload videos of the peripherals that I am testing.<br>
+- I am currently studying systems analysis.<br>
+- I am a generally creative person who likes to be doing things.<br>
+- My main objective is to contribute to technologies that can change the world forever and to see how far we can improve technology.<br>
 
 
 ---
