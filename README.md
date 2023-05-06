@@ -12,6 +12,8 @@
 - I am a generally creative person who likes to be doing things.<br>
 - My main objective is to contribute to technologies that can change the world forever and to see how far we can improve technology.<br>
 
+My youtube chanel: https://www.youtube.com/channel/UCUIFrovDPwso4XeB54e_PBg  <br> 
+My Instagram: https://www.instagram.com/pfohardware/  <br>
 
 ---
 
