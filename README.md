@@ -21,6 +21,7 @@ Knowledge in construction.
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/2827/2827348.png" width="50px" height="50px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" width="50px" height="50px">
-  <img src="https://www.flaticon.es/icono-gratis/html-5_5968267?term=html&page=1&position=1&origin=search&related_id=5968267" width="50px" height="50px">
+  <img src="![image](https://github.com/ivanpfoh/ivanpfoh/assets/114116865/523f92db-674f-483b-8ed5-45e5917ac810)
+" width="50px" height="50px">
   <img src="https://www.pngwing.com/es/free-png-tzfox" width="50px" height="50px">
 </div>
