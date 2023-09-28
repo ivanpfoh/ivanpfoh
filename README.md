@@ -21,5 +21,5 @@ Knowledge in construction.
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/2827/2827348.png" width="50px" height="50px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" width="50px" height="50px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50px" height="50px">
+  <img src="upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50px" height="50px">
 </div>
