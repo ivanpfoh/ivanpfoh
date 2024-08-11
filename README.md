@@ -6,7 +6,7 @@
 
 ---
 <h3>About me</h3>
-- I am an enthusiast of both hardware and peripherals.<br>
+- I am a programming and computer hardware enthusiast.<br>
 - I have my channel where I upload videos of the peripherals that I am testing.<br>
 - I am currently studying systems analysis.<br>
 - I am a generally creative person who likes to be doing things.<br>
