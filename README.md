@@ -9,7 +9,7 @@
 - I am a programming and computer hardware enthusiast.<br>
 - I have my channel where I upload videos of the peripherals that I am testing.<br>
 - I am currently studying systems analysis.<br>
-- I am a generally creative person who likes to be doing things.<br>
+- I am a generally creative person.<br>
 - My main objective is to contribute to technologies that can change the world forever and to see how far we can improve technology.<br>
 
 My youtube chanel: https://www.youtube.com/channel/UCUIFrovDPwso4XeB54e_PBg  <br> 
